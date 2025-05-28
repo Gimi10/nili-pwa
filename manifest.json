@@ -3,7 +3,7 @@
   "short_name": "נילי",
   "description": "פודקאסט לילדים עם סיפורים בליווי כלי נגינה",
   "start_url": "https://www.saprili.com/poscasts",
-  "scope": "/",
+  "scope":  "https://www.saprili.com/poscasts",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
