@@ -2,8 +2,8 @@
   "name": "נילי ספרי לי",
   "short_name": "נילי",
   "description": "פודקאסט לילדים עם סיפורים בליווי כלי נגינה",
-  "start_url": "https://www.saprili.com/poscasts",
-  "scope":  "https://www.saprili.com/poscasts",
+  "start_url": "/poscasts",
+  "scope": "/poscasts",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -20,3 +20,4 @@
     }
   ]
 }
+
